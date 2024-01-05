@@ -1,5 +1,5 @@
 FROM ubuntu:22.04
-LABEL maintainer="wingnut0310 <wingnut0310@gmail.com>"
+LABEL maintainer="malishan3600 <malishan3600@gmail.com>"
 
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US:en
